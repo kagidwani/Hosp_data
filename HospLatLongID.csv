@@ -1,0 +1,151 @@
+﻿Hospital_ID,Hospital_Name,Hospital_City,Hosptial_name_city,Lat,Long
+1,Indiana University Health University Hospital,Indianapolis,Indiana University Health University Hospital Indianapolis,39.7749225,-86.1767001
+2,Hancock Regional Hospital,Greenfield,Hancock Regional Hospital Greenfield,39.7944852,-85.7685869
+3,Ascension St. Vincent Anderson,Anderson,Ascension St. Vincent Anderson Anderson,40.0955305,-85.6812084
+4,"Cameron Memorial Community Hospital, Inc.",Angola,"Cameron Memorial Community Hospital, Inc. Angola",41.634337,-84.9951575
+5,Ascension St. Vincent Warrick,Boonville,Ascension St. Vincent Warrick Boonville,38.0418134,-87.262921
+7,Indiana University Health Bedford Hospital,Bedford,Indiana University Health Bedford Hospital Bedford,38.85946,-86.5129187
+8,Margaret Mary Health,Batesville,Margaret Mary Health Batesville,39.305253,-85.2226613
+9,Ascension St. Vincent Dunn,Bedford,Ascension St. Vincent Dunn Bedford,38.853322,-86.494527
+11,Indiana University Health Bloomington Hospital,Bloomington,Indiana University Health Bloomington Hospital Bloomington,39.1600593,-86.540383
+12,Bluffton Regional Medical Center,Bluffton,Bluffton Regional Medical Center Bluffton,40.7374106,-85.1711496
+14,Ascension St. Vincent Clay,Brazil,Ascension St. Vincent Clay Brazil,39.5293481,-87.1116937
+15,Union Hospital Clinton,Clinton,Union Hospital Clinton Clinton,39.6531352,-87.3986651
+16,Columbus Regional Hospital,Columbus,Columbus Regional Hospital Columbus,39.2163141,-85.8943352
+17,Fayette Regional Health System,Connersville,Fayette Regional Health System Connersville,39.6563667,-85.1326641
+18,Franciscan Health Crawfordsville,Crawfordsville,Franciscan Health Crawfordsville Crawfordsville,40.0664798,-86.9055873
+19,Harrison County Hospital,Corydon,Harrison County Hospital Corydon,38.2381274,-86.1475847
+20,Adams Memorial Hospital,Decatur,Adams Memorial Hospital Decatur,40.8163638,-84.9142634
+21,Franciscan Health Dyer,Dyer,Franciscan Health Dyer Dyer,41.4926086,-87.5245767
+22,"St. Catherine Hospital, Inc.",East Chicago,"St. Catherine Hospital, Inc. East Chicago",41.6348372,-87.4475437
+23,Elkhart General Hospital,Elkhart,Elkhart General Hospital Elkhart,41.678348,-85.9932769
+24,Ascension St. Vincent Mercy,Elwood,Ascension St. Vincent Mercy Elwood,40.2755165,-85.8434347
+25,Franciscan Health Crown Point,Crown Point,Franciscan Health Crown Point Crown Point,41.3960697,-87.3668376
+26,Encompass Health Deaconess Rehabilitation Hospital,Newburgh,Encompass Health Deaconess Rehabilitation Hospital Newburgh,37.9795698,-87.4202385
+27,Deaconess Midtown Hospital,Evansville,Deaconess Midtown Hospital Evansville,37.9837274,-87.5707668
+28,Ascension St. Vincent Evansville,Evansville,Ascension St. Vincent Evansville Evansville,37.9650515,-87.5045086
+30,Rehabilitation Hospital of Fort Wayne,Fort Wayne,Rehabilitation Hospital of Fort Wayne Fort Wayne,41.0428899,-85.2481637
+31,Lutheran Hospital of Indiana,Fort Wayne,Lutheran Hospital of Indiana Fort Wayne,41.039058,-85.2491139
+32,Parkview Hospital Randallia,Fort Wayne,Parkview Hospital Randallia Fort Wayne,41.095694,-85.109793
+33,St. Joseph Hospital,Fort Wayne,St. Joseph Hospital Fort Wayne,41.0782221,-85.1495568
+34,Highpoint Health,Lawrenceburg,Highpoint Health Lawrenceburg,39.1121184,-84.883837
+35,Indiana University Health Frankfort,Frankfort,Indiana University Health Frankfort Frankfort,40.2695974,-86.5112609
+36,Indiana University Health Paoli Hospital,Paoli,Indiana University Health Paoli Hospital Paoli,38.5684001,-86.4751136
+37,Memorial Hospital and Health Care Center,Jasper,Memorial Hospital and Health Care Center Jasper,38.3949318,-86.9409308
+38,"Methodist Hospitals, Northlake Campus",Gary,"Methodist Hospitals, Northlake Campus Gary",41.5994155,-87.3577499
+41,Putnam County Hospital,Greencastle,Putnam County Hospital Greencastle,39.621285,-86.8476013
+42,Decatur County Memorial Hospital,Greensburg,Decatur County Memorial Hospital Greensburg,39.3440127,-85.4786454
+43,Community Howard Regional Health,Kokomo,Community Howard Regional Health Kokomo,40.4468597,-86.1258148
+44,Franciscan Health Hammond,Hammond,Franciscan Health Hammond Hammond,41.6151781,-87.5238812
+45,St. Mary Medical Center,Hobart,St. Mary Medical Center Hobart,41.5124285,-87.2612406
+46,Indiana University Health Blackford Hospital,Hartford City,Indiana University Health Blackford Hospital Hartford City,40.4677793,-85.3726904
+48,Parkview Huntington Hospital,Huntington,Parkview Huntington Hospital Huntington,40.9047133,-85.4878255
+49,"Methodist Hospitals, Southlake Campus",Merrillville,"Methodist Hospitals, Southlake Campus Merrillville",41.4582307,-87.331597
+50,Parkview Whitley Hospital,Columbia City,Parkview Whitley Hospital Columbia City,41.158229,-85.4648969
+51,Sidney & Lois Eskenazi Hospital,Indianapolis,Sidney & Lois Eskenazi Hospital Indianapolis,40.2842164,-84.1554987
+53,Indiana University Health Methodist Hospital,Indianapolis,Indiana University Health Methodist Hospital Indianapolis,39.7903409,-86.1633559
+54,Scott Memorial Health,Scottsburg,Scott Memorial Health Scottsburg,38.7046487,-85.7862331
+55,Ascension St. Vincent Hospital Indianapolis,Indianapolis,Ascension St. Vincent Hospital Indianapolis Indianapolis,39.9090803,-86.1958346
+57,Clark Memorial Health,Jeffersonville,Clark Memorial Health Jeffersonville,38.2823148,-85.7492741
+58,Parkview Noble Hospital,Kendallville,Parkview Noble Hospital Kendallville,41.4483537,-85.2960333
+59,Ascension St. Vincent Kokomo,Kokomo,Ascension St. Vincent Kokomo Kokomo,40.4863584,-86.1568939
+60,Franciscan Health Lafayette East,Lafayette,Franciscan Health Lafayette East Lafayette,40.3934681,-86.8354738
+61,Franciscan Health Lafayette Central,Lafayette,Franciscan Health Lafayette Central Lafayette,40.4273033,-86.8807449
+62,Riley Hospital for Children at Indiana University Health,Indianapolis,Riley Hospital for Children at Indiana University Health Indianapolis,39.7774285,-86.1800805
+63,Franciscan Health Indianapolis,Indianapolis,Franciscan Health Indianapolis Indianapolis,39.6949765,-86.0797868
+64,La Porte Hospital,La Porte,La Porte Hospital La Porte,41.6091792,-86.7279259
+65,Witham Health Services,Lebanon,Witham Health Services Lebanon,40.0774198,-86.4735672
+66,Greene County General Hospital,Linton,Greene County General Hospital Linton,39.0408633,-87.1299643
+67,Logansport Memorial Hospital,Logansport,Logansport Memorial Hospital Logansport,40.7632571,-86.3623687
+68,Dupont Hospital,Fort Wayne,Dupont Hospital Fort Wayne,41.1752138,-85.1089426
+69,Parkview LaGrange Hospital,LaGrange,Parkview LaGrange Hospital LaGrange,41.6457682,-85.4261117
+70,King's Daughters' Health,Madison,King's Daughters' Health Madison,38.7926212,-85.3640923
+71,Marion General Hospital,Marion,Marion General Hospital Marion,40.5641344,-85.6655597
+72,Indiana University Health Morgan Hospital,Martinsville,Indiana University Health Morgan Hospital Martinsville,39.4260521,-86.404967
+75,Community Hospital of Bremen,Bremen,Community Hospital of Bremen Bremen,41.4561658,-86.1586104
+77,Franciscan Health Michigan City,Michigan City,Franciscan Health Michigan City Michigan City,41.6595891,-86.8986778
+79,Franciscan Health Mooresville,Mooresville,Franciscan Health Mooresville Mooresville,39.6076612,-86.3556555
+81,Indiana University Health Ball Memorial Hospital,Muncie,Indiana University Health Ball Memorial Hospital Muncie,40.1966484,-85.4154652
+82,Community Hospital (Munster),Munster,Community Hospital (Munster) Munster,41.5506486,-87.5066283
+83,Parkview DeKalb Hospital,Auburn,Parkview DeKalb Hospital Auburn,41.3689029,-85.0355821
+84,Ascension St. Vincent Jennings,North Vernon,Ascension St. Vincent Jennings North Vernon,39.0097135,-85.6405966
+85,Henry Community Health,New Castle,Henry Community Health New Castle,39.9434653,-85.3632676
+87,Community Hospital Anderson,Anderson,Community Hospital Anderson Anderson,40.1305836,-85.6931911
+88,Dukes Memorial Hospital,Peru,Dukes Memorial Hospital Peru,40.756731,-86.0826193
+89,The Women's Hospital,Newburgh,The Women's Hospital Newburgh,37.9737829,-87.4479529
+90,Plymouth Medical Center,Plymouth,Plymouth Medical Center Plymouth,41.3334094,-86.3323421
+91,Indiana University Health Jay Hospital,Portland,Indiana University Health Jay Hospital Portland,40.4412279,-84.9843787
+92,"Gibson General Hospital, Inc.",Princeton,"Gibson General Hospital, Inc. Princeton",38.3608587,-87.589781
+93,Franciscan Health Rensselaer,Rensselaer,Franciscan Health Rensselaer Rensselaer,40.9343526,-87.1388606
+94,Reid Health,Richmond,Reid Health Richmond,39.8647167,-84.884643
+95,Ascension St. Vincent Salem,Salem,Ascension St. Vincent Salem Salem,38.6132502,-86.1071817
+97,Woodlawn Hospital,Rochester,Woodlawn Hospital Rochester,41.063738,-86.1958581
+99,Johnson Memorial Health,Franklin,Johnson Memorial Health Franklin,39.4793511,-86.0770798
+100,Rush Memorial Hospital,Rushville,Rush Memorial Hospital Rushville,39.6223147,-85.4439336
+101,Schneck Medical Center,Seymour,Schneck Medical Center Seymour,38.9558496,-85.8916148
+102,Major Hospital,Shelbyville,Major Hospital Shelbyville,39.5600099,-85.786245
+103,Memorial Hospital of South Bend,South Bend,Memorial Hospital of South Bend South Bend,41.6836897,-86.2519562
+105,Mishawaka Medical Center,Mishawaka,Mishawaka Medical Center Mishawaka,41.7065071,-86.1741259
+106,Sullivan County Community Hospital,Sullivan,Sullivan County Community Hospital Sullivan,39.1257309,-87.41212
+107,Perry County Memorial Hospital,Tell City,Perry County Memorial Hospital Tell City,37.9685124,-86.732018
+108,Terre Haute Regional Hospital,Terre Haute,Terre Haute Regional Hospital Terre Haute,39.4195116,-87.4089787
+109,Union Hospital,Terre Haute,Union Hospital Terre Haute,39.4853834,-87.408624
+110,Hendricks Regional Health,Danville,Hendricks Regional Health Danville,39.762417,-86.502746
+111,Ascension St. Vincent Heart Center,Indianapolis,Ascension St. Vincent Heart Center Indianapolis,39.939337,-86.1592051
+113,Porter Regional Hospital,Valparaiso,Porter Regional Hospital Valparaiso,41.5519314,-87.0501984
+114,Good Samaritan,Vincennes,Good Samaritan Vincennes,38.6728132,-87.5332059
+115,Indiana University Health Tipton Hospital,Tipton,Indiana University Health Tipton Hospital Tipton,40.2721616,-86.0422846
+116,Parkview Wabash Hospital,Wabash,Parkview Wabash Hospital Wabash,40.8211147,-85.824086
+117,Kosciusko Community Hospital,Warsaw,Kosciusko Community Hospital Warsaw,41.2482109,-85.8283081
+119,Daviess Community Hospital,Washington,Daviess Community Hospital Washington,38.6596081,-87.1598335
+120,Ascension St. Vincent Williamsport,Williamsport,Ascension St. Vincent Williamsport Williamsport,40.2905485,-87.2965648
+121,Ascension St. Vincent Randolph,Winchester,Ascension St. Vincent Randolph Winchester,40.1690952,-84.968994
+123,Kindred Hospital Northern Indiana,Mishawaka,Kindred Hospital Northern Indiana Mishawaka,41.658429,-86.182094
+124,Riverview Health,Noblesville,Riverview Health Noblesville,40.0456899,-86.0243137
+126,Parkview Ortho Hospital,Fort Wayne,Parkview Ortho Hospital Fort Wayne,41.1876997,-85.1015863
+128,Pulaski Memorial Hospital,Winamac,Pulaski Memorial Hospital Winamac,41.0567576,-86.595827
+129,Starke Hospital,Knox,Starke Hospital Knox,41.2873712,-86.6218586
+133,Goshen Health,Goshen,Goshen Health Goshen,41.5636373,-85.8295814
+134,Baptist Health Floyd,New Albany,Baptist Health Floyd New Albany,38.3007159,-85.8335323
+136,Indiana University Health White Memorial Hospital,Monticello,Indiana University Health White Memorial Hospital Monticello,40.7343577,-86.7777334
+137,Community Hospital South,Indianapolis,Community Hospital South Indianapolis,39.6365539,-86.132546
+138,Community Hospital East,Indianapolis,Community Hospital East Indianapolis,39.7868112,-86.0749049
+139,Community Hospital North,Indianapolis,Community Hospital North Indianapolis,39.900941,-86.04093
+141,Valle Vista Health System,Greenwood,Valle Vista Health System Greenwood,39.6152112,-86.0864265
+142,Kindred Hospital - Indianapolis,Indianapolis,Kindred Hospital - Indianapolis Indianapolis,39.7816275,-86.1915446
+143,Ascension St. Vincent Carmel,Carmel,Ascension St. Vincent Carmel Carmel,39.9823872,-86.1447542
+146,Ascension St. Vincent Stress Center,Indianapolis,Ascension St. Vincent Stress Center Indianapolis,39.9086716,-86.1925459
+150,Community Howard Specialty Hospital,Kokomo,Community Howard Specialty Hospital Kokomo,40.497299,-86.165956
+151,Community Heart and Vascular Hospital Shadeland Ave,Indianapolis,Community Heart and Vascular Hospital Shadeland Ave Indianapolis,39.9020172,-86.0442765
+152,Indiana University Health West Hospital,Avon,Indiana University Health West Hospital Avon,39.779959,-86.3401688
+154,OrthoIndy Hospital,Indianapolis,OrthoIndy Hospital Indianapolis,39.9080735,-86.2672107
+155,Indiana University Health North Hospital,Carmel,Indiana University Health North Hospital Carmel,39.9596046,-86.1594079
+158,Monroe Hospital,Bloomington,Monroe Hospital Bloomington,39.1207087,-86.5719324
+160,Franciscan Health Munster,Munster,Franciscan Health Munster Munster,41.5376953,-87.5119159
+162,Indiana University Health Arnett Hospital,Lafayette,Indiana University Health Arnett Hospital Lafayette,40.4011252,-86.8062796
+164,Heart Hospital at Deaconess Gateway,Newburgh,Heart Hospital at Deaconess Gateway Newburgh,37.9752285,-87.4444489
+166,The Orthopedic Hospital of Lutheran Health Network,Fort Wayne,The Orthopedic Hospital of Lutheran Health Network Fort Wayne,41.0400016,-85.2498157
+168,Unity Medical and Surgical Hospital,Mishawaka,Unity Medical and Surgical Hospital Mishawaka,41.7012773,-86.1781193
+169,Physicians' Medical Center,New Albany,Physicians' Medical Center New Albany,38.340037,-85.8277689
+170,Indiana University Health Saxony Hospital,Fishers,Indiana University Health Saxony Hospital Fishers,39.9862869,-85.9298158
+171,Ascension St. Vincent Fishers,Fishers,Ascension St. Vincent Fishers Fishers,39.9894966,-85.9161569
+172,Franciscan Health Carmel,Carmel,Franciscan Health Carmel Carmel,39.9679498,-86.1587928
+453,Southern Indiana Rehabilitation Hospital,New Albany,Southern Indiana Rehabilitation Hospital New Albany,38.3366602,-85.7947079
+456,Michiana Behavioral Health,Plymouth,Michiana Behavioral Health Plymouth,41.3568901,-86.3278932
+458,Bloomington Meadows Hospital,Bloomington,Bloomington Meadows Hospital Bloomington,39.2059067,-86.5511909
+459,Rehabilitation Hospital of Indiana,Indianapolis,Rehabilitation Hospital of Indiana Indianapolis,39.8295645,-86.2779031
+463,Kindred Hospital Indianapolis North,Indianapolis,Kindred Hospital Indianapolis North Indianapolis,39.9017681,-86.0605036
+464,Select Specialty Hospital - Evansville,Evansville,Select Specialty Hospital - Evansville Evansville,37.9678935,-87.5674751
+470,Kindred Hospital Northwest Indiana,Hammond,Kindred Hospital Northwest Indiana Hammond,41.6151781,-87.5238812
+477,Regency Hospital of Northwest Indiana,East Chicago,Regency Hospital of Northwest Indiana East Chicago,41.6352561,-87.4485799
+479,Regency Hospital of Porter County,Portage,Regency Hospital of Porter County Portage,41.5464456,-87.1845126
+485,Vibra Hospital of Northwestern Indiana,Crown Point,Vibra Hospital of Northwestern Indiana Crown Point,41.444427,-87.3252945
+489,Lafayette Regional Rehabilitation Hospital,Lafayette,Lafayette Regional Rehabilitation Hospital Lafayette,40.4046537,-86.8297213
+491,NeuroPsychiatric Hospital of Indianapolis,Indianapolis,NeuroPsychiatric Hospital of Indianapolis Indianapolis,39.8262247,-86.2788616
+492,Doctors NeuroPsychiatric Hospital,Bremen,Doctors NeuroPsychiatric Hospital Bremen,41.443579,-86.1503071
+493,Central Indiana AMG Specialty Hospital,Muncie,Central Indiana AMG Specialty Hospital Muncie,40.1968976,-85.4146284
+705,NW Indiana 24/7 ER & HOSPITAL,Hammond,NW Indiana 24/7 ER & HOSPITAL Hammond,41.5691781,-87.4796191
+710,Hendricks Regional Health Brownsburg Hospital,Brownsburg,Hendricks Regional Health Brownsburg Hospital Brownsburg,39.8441601,-86.3576307
+724,Riverview Health Westfield Hospital,Westfield,Riverview Health Westfield Hospital Westfield,40.043512,-86.134076
+725,Riverview Health Emergency Room & Urgent Care Fishers,Fishers,Riverview Health Emergency Room & Urgent Care Fishers Fishers,39.9572582,-86.0035723
+726,Riverview Health Emergency Room & Urgent Care Carmel,Carmel,Riverview Health Emergency Room & Urgent Care Carmel Carmel,39.9572582,-86.0035723

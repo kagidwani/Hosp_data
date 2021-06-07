@@ -1,0 +1,151 @@
+﻿Hospital_ID,Hospital_Name,Hospital_City
+1,Indiana University Health University Hospital,Indianapolis
+2,Hancock Regional Hospital,Greenfield
+3,Ascension St. Vincent Anderson,Anderson
+4,"Cameron Memorial Community Hospital, Inc.",Angola
+5,Ascension St. Vincent Warrick,Boonville
+7,Indiana University Health Bedford Hospital,Bedford
+8,Margaret Mary Health,Batesville
+9,Ascension St. Vincent Dunn,Bedford
+11,Indiana University Health Bloomington Hospital,Bloomington
+12,Bluffton Regional Medical Center,Bluffton
+14,Ascension St. Vincent Clay,Brazil
+15,Union Hospital Clinton,Clinton
+16,Columbus Regional Hospital,Columbus
+17,Fayette Regional Health System,Connersville
+18,Franciscan Health Crawfordsville,Crawfordsville
+19,Harrison County Hospital,Corydon
+20,Adams Memorial Hospital,Decatur
+21,Franciscan Health Dyer,Dyer
+22,"St. Catherine Hospital, Inc.",East Chicago
+23,Elkhart General Hospital,Elkhart
+24,Ascension St. Vincent Mercy,Elwood
+25,Franciscan Health Crown Point,Crown Point
+26,Encompass Health Deaconess Rehabilitation Hospital,Newburgh
+27,Deaconess Midtown Hospital,Evansville
+28,Ascension St. Vincent Evansville,Evansville
+30,Rehabilitation Hospital of Fort Wayne,Fort Wayne
+31,Lutheran Hospital of Indiana,Fort Wayne
+32,Parkview Hospital Randallia,Fort Wayne
+33,St. Joseph Hospital,Fort Wayne
+34,Highpoint Health,Lawrenceburg
+35,Indiana University Health Frankfort,Frankfort
+36,Indiana University Health Paoli Hospital,Paoli
+37,Memorial Hospital and Health Care Center,Jasper
+38,"Methodist Hospitals, Northlake Campus",Gary
+41,Putnam County Hospital,Greencastle
+42,Decatur County Memorial Hospital,Greensburg
+43,Community Howard Regional Health,Kokomo
+44,Franciscan Health Hammond,Hammond
+45,St. Mary Medical Center,Hobart
+46,Indiana University Health Blackford Hospital,Hartford City
+48,Parkview Huntington Hospital,Huntington
+49,"Methodist Hospitals, Southlake Campus",Merrillville
+50,Parkview Whitley Hospital,Columbia City
+51,Sidney & Lois Eskenazi Hospital,Indianapolis
+53,Indiana University Health Methodist Hospital,Indianapolis
+54,Scott Memorial Health,Scottsburg
+55,Ascension St. Vincent Hospital Indianapolis,Indianapolis
+57,Clark Memorial Health,Jeffersonville
+58,Parkview Noble Hospital,Kendallville
+59,Ascension St. Vincent Kokomo,Kokomo
+60,Franciscan Health Lafayette East,Lafayette
+61,Franciscan Health Lafayette Central,Lafayette
+62,Riley Hospital for Children at Indiana University Health,Indianapolis
+63,Franciscan Health Indianapolis,Indianapolis
+64,La Porte Hospital,La Porte
+65,Witham Health Services,Lebanon
+66,Greene County General Hospital,Linton
+67,Logansport Memorial Hospital,Logansport
+68,Dupont Hospital,Fort Wayne
+69,Parkview LaGrange Hospital,LaGrange
+70,King's Daughters' Health,Madison
+71,Marion General Hospital,Marion
+72,Indiana University Health Morgan Hospital,Martinsville
+75,Community Hospital of Bremen,Bremen
+77,Franciscan Health Michigan City,Michigan City
+79,Franciscan Health Mooresville,Mooresville
+81,Indiana University Health Ball Memorial Hospital,Muncie
+82,Community Hospital (Munster),Munster
+83,Parkview DeKalb Hospital,Auburn
+84,Ascension St. Vincent Jennings,North Vernon
+85,Henry Community Health,New Castle
+87,Community Hospital Anderson,Anderson
+88,Dukes Memorial Hospital,Peru
+89,The Women's Hospital,Newburgh
+90,Plymouth Medical Center,Plymouth
+91,Indiana University Health Jay Hospital,Portland
+92,"Gibson General Hospital, Inc.",Princeton
+93,Franciscan Health Rensselaer,Rensselaer
+94,Reid Health,Richmond
+95,Ascension St. Vincent Salem,Salem
+97,Woodlawn Hospital,Rochester
+99,Johnson Memorial Health,Franklin
+100,Rush Memorial Hospital,Rushville
+101,Schneck Medical Center,Seymour
+102,Major Hospital,Shelbyville
+103,Memorial Hospital of South Bend,South Bend
+105,Mishawaka Medical Center,Mishawaka
+106,Sullivan County Community Hospital,Sullivan
+107,Perry County Memorial Hospital,Tell City
+108,Terre Haute Regional Hospital,Terre Haute
+109,Union Hospital,Terre Haute
+110,Hendricks Regional Health,Danville
+111,Ascension St. Vincent Heart Center,Indianapolis
+113,Porter Regional Hospital,Valparaiso
+114,Good Samaritan,Vincennes
+115,Indiana University Health Tipton Hospital,Tipton
+116,Parkview Wabash Hospital,Wabash
+117,Kosciusko Community Hospital,Warsaw
+119,Daviess Community Hospital,Washington
+120,Ascension St. Vincent Williamsport,Williamsport
+121,Ascension St. Vincent Randolph,Winchester
+123,Kindred Hospital Northern Indiana,Mishawaka
+124,Riverview Health,Noblesville
+126,Parkview Ortho Hospital,Fort Wayne
+128,Pulaski Memorial Hospital,Winamac
+129,Starke Hospital,Knox
+133,Goshen Health,Goshen
+134,Baptist Health Floyd,New Albany
+136,Indiana University Health White Memorial Hospital,Monticello
+137,Community Hospital South,Indianapolis
+138,Community Hospital East,Indianapolis
+139,Community Hospital North,Indianapolis
+141,Valle Vista Health System,Greenwood
+142,Kindred Hospital - Indianapolis,Indianapolis
+143,Ascension St. Vincent Carmel,Carmel
+146,Ascension St. Vincent Stress Center,Indianapolis
+150,Community Howard Specialty Hospital,Kokomo
+151,Community Heart and Vascular Hospital Shadeland Ave,Indianapolis
+152,Indiana University Health West Hospital,Avon
+154,OrthoIndy Hospital,Indianapolis
+155,Indiana University Health North Hospital,Carmel
+158,Monroe Hospital,Bloomington
+160,Franciscan Health Munster,Munster
+162,Indiana University Health Arnett Hospital,Lafayette
+164,Heart Hospital at Deaconess Gateway,Newburgh
+166,The Orthopedic Hospital of Lutheran Health Network,Fort Wayne
+168,Unity Medical and Surgical Hospital,Mishawaka
+169,Physicians' Medical Center,New Albany
+170,Indiana University Health Saxony Hospital,Fishers
+171,Ascension St. Vincent Fishers,Fishers
+172,Franciscan Health Carmel,Carmel
+453,Southern Indiana Rehabilitation Hospital,New Albany
+456,Michiana Behavioral Health,Plymouth
+458,Bloomington Meadows Hospital,Bloomington
+459,Rehabilitation Hospital of Indiana,Indianapolis
+463,Kindred Hospital Indianapolis North,Indianapolis
+464,Select Specialty Hospital - Evansville,Evansville
+470,Kindred Hospital Northwest Indiana,Hammond
+477,Regency Hospital of Northwest Indiana,East Chicago
+479,Regency Hospital of Porter County,Portage
+485,Vibra Hospital of Northwestern Indiana,Crown Point
+489,Lafayette Regional Rehabilitation Hospital,Lafayette
+491,NeuroPsychiatric Hospital of Indianapolis,Indianapolis
+492,Doctors NeuroPsychiatric Hospital,Bremen
+493,Central Indiana AMG Specialty Hospital,Muncie
+705,NW Indiana 24/7 ER & HOSPITAL,Hammond
+710,Hendricks Regional Health Brownsburg Hospital,Brownsburg
+724,Riverview Health Westfield Hospital,Westfield
+725,Riverview Health Emergency Room & Urgent Care Fishers,Fishers
+726,Riverview Health Emergency Room & Urgent Care Carmel,Carmel
